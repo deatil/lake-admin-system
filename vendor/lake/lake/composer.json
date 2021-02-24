@@ -1,0 +1,29 @@
+{
+    "name": "lake/lake",
+    "description": "The lake is a library",
+    "license": "Apache-2.0",
+    "type": "library",
+    "keywords": [
+        "lake",
+        "lake-admin"
+    ],
+    "homepage": "https://github.com/deatil/lake",
+    "authors": [
+        {
+            "name": "deatil",
+            "email": "deatil@github.com",
+            "homepage": "https://github.com/deatil"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "phpmailer/phpmailer": "6.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lake\\": "src/Lake"
+        },
+        "files": [
+        ]
+    }
+}
