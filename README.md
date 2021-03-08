@@ -31,6 +31,8 @@ lake-admin是一款基于ThinkPHP6+Layui的后台开发框架。
 
 *  该库为 `composer` 后的完整包
 *  你可以直接运行 `php think lake-admin:install` 命令安装系统
+*  后台访问 `http://yourdomain/admin`，账号及密码:admin/123456
+*  系统详情可以查看 [lake-admin](https://github.com/deatil/lake-admin)
 
 
 ### 界面截图
